@@ -1,0 +1,3 @@
+DeviceID  DriveType  FreeSpace     ProviderName  Size           VolumeName  
+C:        3          19568205824                 127389396992               
+D:        3          208446435328                1000203087872   
