@@ -1,0 +1,4 @@
+TotalPhysicalMemory  
+17133256704          
+FreePhysicalMemory  
+11345448 
