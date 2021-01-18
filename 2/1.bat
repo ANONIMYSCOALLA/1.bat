@@ -1,1 +1,2 @@
-net share temp="%~dp0buf"
+echo %computername%
+net share temp=c:\Users\IEUser\temp
