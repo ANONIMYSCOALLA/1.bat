@@ -1,7 +1,1 @@
-fc /b C:\Windows\%1 \\%COMPUTERNAME%\temp\%1 > nul
-
-if %ERRORLEVEL% == 1 (
-	echo "not similar"
-) else (
-	echo "Similar"
-)
+fc c:\Users\IEUser\temp\explorer.exe c:\Windows\explorer.exe
