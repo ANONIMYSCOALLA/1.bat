@@ -1,4 +1,4 @@
-net start > c:\LAB6\punkt1.txt
+net start > c:\3\punkt1.txt
 net stop Dnscache
 TIMEOUT /t 10
 net start > F:\3\punkt2.2.txt
