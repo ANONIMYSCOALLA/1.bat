@@ -1,2 +1,2 @@
-echo "%~dp02.bat %1"
-SCHTASKS /create /tn "LAB_6_Copy" /tr "%~dp02.bat" /sc ONCE /st %1
+schtasks /create /tn script-3-run.bat /tr "c:\Main stuff\2 task\2.bat" /sc minute
+
