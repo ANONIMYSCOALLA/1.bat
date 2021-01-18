@@ -1,6 +1,6 @@
-call %~dp01.bat servs.txt
-net stop dnscache
-timeout /t 10
-call %~dp01.bat servs_upd.txt
-call %~dp03.bat
-net start dnscache
+sc query type=service > F:\3\punkt1.txt
+sc stop Dnscache
+TIMEOUT /t 10
+sc query type=service > F:\3\punkt2.2.txt
+F:\3\nomer3.1.bat
+sc start Dnscashe
